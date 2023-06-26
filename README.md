@@ -1,8 +1,8 @@
-# Todo-List
+# ✅ Todo-List
 
 The **Todo-List** project is a web application that allows users to create and manage their to-do lists. It provides a simple and intuitive interface for adding, editing, and completing tasks.
 
-## Features
+## 🌟 Features
 
 - **Create Tasks**: Users can add new tasks to their to-do list.
 - **Edit Tasks**: Tasks can be edited to update their details or modify the task description.
@@ -11,7 +11,7 @@ The **Todo-List** project is a web application that allows users to create and m
 - **Multiple Lists**: The application supports the creation of multiple to-do lists, allowing users to organize tasks into different categories or projects.
 - **Responsive Design**: The user interface is designed to be responsive and adaptable to different screen sizes, making it accessible on both desktop and mobile devices.
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 The Todo-List project is built using the following technologies:
 
@@ -25,7 +25,7 @@ The Todo-List project is built using the following technologies:
 - **Git**: Version control system for tracking changes and collaborating on the project.
 - **GitHub**: Hosting platform for storing and sharing the project repository.
 
-## Getting Started
+## 🚀 Getting Started
 
 To run the Todo-List application locally, follow these steps:
 
@@ -40,7 +40,7 @@ node app.js
 
 4. Open a web browser and visit `http://localhost:3000` to access the application.
 
-## Contribution
+## 🤝 Contribution
 
 Contributions to the Todo-List project are welcome. If you find any issues or have suggestions for improvements, please open an issue on the GitHub repository.
 
